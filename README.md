@@ -7,5 +7,4 @@
 - Eduardo
 - David
 - Christian
-- Ismael
 - Dora Caraza
