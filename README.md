@@ -4,3 +4,6 @@
 - Luis
 - Wimer Esteba
 - Moises
+- Eduardo
+- David
+- Christian
