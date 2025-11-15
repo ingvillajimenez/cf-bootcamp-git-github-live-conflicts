@@ -8,4 +8,4 @@
 - David
 - Christian
 - Ismael
-- Juan Alberto
+- Dora Caraza
